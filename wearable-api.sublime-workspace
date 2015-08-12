@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"endif"
+			],
+			[
+				"sh",
+				"shareClickHandler"
+			],
+			[
+				"j",
+				"join"
+			],
+			[
+				"new",
+				"newUrl"
+			],
+			[
+				"p",
+				"parameters"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"get",
+				"getFilters"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"is_ca",
+				"is_category"
+			],
+			[
+				"slid",
+				"sliderHeight"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"wa",
+				"warninglog"
+			],
+			[
+				"freq",
+				"frequency"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"practice",
+				"practiceGroups"
+			],
+			[
+				"pract",
+				"practice-groups"
+			],
+			[
+				"a",
+				"attorneyDetails"
+			],
+			[
+				"tog",
+				"toggleClass"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"featur",
+				"featured_page"
+			],
+			[
+				"ip",
+				"important"
+			],
+			[
+				"m",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/delappdesignmacmini/Sites/node-wearable-api"
+	],
+	"file_history":
+	[
+		"/Users/delappdesignmacmini/Sites/node-wearable-api/api/models/User.js",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/f544b957-258a-4de2-b680-fd2139efe7c6/home/engagingmenadvan/public_html/wp-content/themes/emaw/tribe-events/list/single-past-event.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/f544b957-258a-4de2-b680-fd2139efe7c6/home/engagingmenadvan/public_html/wp-content/themes/emaw/template-past-forums.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/f544b957-258a-4de2-b680-fd2139efe7c6/home/business360nw/public_html/wp-content/themes/business360nw/functions.php",
+		"/Users/delappdesignmacmini/Sites/babel-starter-kit/lib/Main.js",
+		"/Users/delappdesignmacmini/Sites/babel-starter-kit/lib/Main.babel.js",
+		"/Users/delappdesignmacmini/Sites/isb-staging/sidebar-publications.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/js/research.js",
+		"/Users/delappdesignmacmini/Sites/isb-staging/single-isb_research-reports.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/functions.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/changes.css",
+		"/Users/delappdesignmacmini/Sites/isb-staging/sidebar-research.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/publication-year-form.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/style.css",
+		"/Users/delappdesignmacmini/Sites/isb-staging/loop-reports.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/1d7018da-6bde-4b51-8821-6f3079af9b42/home/sysbio/public_html/wp-config.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/loop-reports-top-category.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/sidebar.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/single-isb_research.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/9d3f4455-22b6-43ac-b555-184d25842c86/wp-content/themes/isb/loop-research.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/loop-research.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/page-research.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/js/base.js",
+		"/Users/delappdesignmacmini/Sites/isb-staging/sftp-config.json",
+		"/Users/delappdesignmacmini/Sites/isb-staging/base.js",
+		"/Users/delappdesignmacmini/Sites/isb-staging/header.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/ad8e8bd9-8211-4a38-9351-67bc167720c1/home/ddvov/voiceofvashon.org/tiny.html",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/ad8e8bd9-8211-4a38-9351-67bc167720c1/home/ddvov/voiceofvashon.org/wp-content/themes/voiceofvashon/webradio.html",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/ad8e8bd9-8211-4a38-9351-67bc167720c1/home/ddvov/voiceofvashon.org/wp-content/themes/voiceofvashon/footer.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/ad8e8bd9-8211-4a38-9351-67bc167720c1/home/ddvov/voiceofvashon.org/wp-content/themes/voiceofvashon/js/jquery.main.js",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/ad8e8bd9-8211-4a38-9351-67bc167720c1/home/ddvov/voiceofvashon.org/wp-content/themes/voiceofvashon/js/jquery.jplayer.min.js",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/f544b957-258a-4de2-b680-fd2139efe7c6/home/systemsbio/public_html/url/user/config.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/f544b957-258a-4de2-b680-fd2139efe7c6/home/systemsbio/public_html/wp-content/themes/isb/header.php",
+		"/Users/delappdesignmacmini/Sites/isb-staging/home.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/e3a9fa72-5d17-4e8b-9616-2eee6e41e37d/home1/edstage1/public_html/mms/wp-content/themes/mms/header.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/e3a9fa72-5d17-4e8b-9616-2eee6e41e37d/home1/edstage1/public_html/mms/wp-content/themes/mms/page.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/e3a9fa72-5d17-4e8b-9616-2eee6e41e37d/home1/edstage1/public_html/mms/wp-content/themes/mms/sidebar-attorneys.php",
+		"/Users/delappdesignmacmini/Desktop/about-management.html",
+		"/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/sublime-sftp-browse-1438280852/mapped/home/sysbio/public_html/wp-content/themes/organic_purpose/css/style-mobile.css",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/f544b957-258a-4de2-b680-fd2139efe7c6/home/sysbio/public_html/wp-content/themes/organic_purpose/css/style-mobile.css",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/a69c4c8e-e93f-44b8-a085-da1b0f0e555b/about-management.html",
+		"/Users/delappdesignmacmini/Sites/isb-staging/isb-staging.sublime-workspace",
+		"/Users/delappdesignmacmini/Sites/isb-staging/isb-staging.sublime-project",
+		"/Users/delappdesignmacmini/Desktop/html5blank-stable/package.json",
+		"/Users/delappdesignmacmini/Desktop/html5blank-stable/sass/style.scss",
+		"/Users/delappdesignmacmini/Desktop/delapp-starter-theme/sass/style.scss",
+		"/Users/delappdesignmacmini/Desktop/html5blank-stable/sass/_helpers.scss",
+		"/Users/delappdesignmacmini/Desktop/delapp-starter-theme/style.css",
+		"/Users/delappdesignmacmini/Sites/isb/page-publications.php",
+		"/Users/delappdesignmacmini/Sites/isb/changes.css",
+		"/Users/delappdesignmacmini/Downloads/molecularme.wordpress.2015-06-22 (1).xml",
+		"/Users/delappdesignmacmini/Sites/isb/style.css",
+		"/Users/delappdesignmacmini/Sites/isb/sidebar-research.php",
+		"/Users/delappdesignmacmini/Sites/isb/formats/panel-featured.php",
+		"/Users/delappdesignmacmini/Sites/angular-simplewebrtc/index.html",
+		"/Users/delappdesignmacmini/Sites/angular-simplewebrtc/angular-simplewebrtc.js",
+		"/Users/delappdesignmacmini/Sites/socketserver/server.js",
+		"/Users/delappdesignmacmini/Sites/chat-example/index.html",
+		"/Users/delappdesignmacmini/Sites/chat-example/package.json",
+		"/Users/delappdesignmacmini/Sites/chat-example/index.js",
+		"/Users/delappdesignmacmini/Sites/isb/page-research.php",
+		"/Users/delappdesignmacmini/Sites/isb/formats/panel-hero.php",
+		"/Users/delappdesignmacmini/Desktop/user.js",
+		"/Users/delappdesignmacmini/Sites/angular-simplewebrtc/bower.json",
+		"/Users/delappdesignmacmini/Sites/WebRTC-Example/server/server.js",
+		"/Users/delappdesignmacmini/Sites/isb/loop-research.php",
+		"/Users/delappdesignmacmini/Sites/isb/formats/panel-buttons.php",
+		"/Users/delappdesignmacmini/Sites/isb/functions.php",
+		"/Users/delappdesignmacmini/Sites/isb/js/jquery.custom.js",
+		"/Users/delappdesignmacmini/Downloads/acf-flexible-content 2/flexible-content.php",
+		"/Users/delappdesignmacmini/Sites/isb/js/base.js",
+		"/Users/delappdesignmacmini/Sites/isb/formats/panel-slideshow.php",
+		"/Users/delappdesignmacmini/Sites/isb/page.php",
+		"/Users/delappdesignmacmini/Sites/isb/template-full.php",
+		"/Users/delappdesignmacmini/Sites/isb/header.php",
+		"/Users/delappdesignmacmini/Sites/isb/publication-year-form.php",
+		"/Users/delappdesignmacmini/Sites/isb/sidebar.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/style.css",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/page.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/header.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/sidebar.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/page-blog.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/bpmlaw/wp-content/themes/bpmlaw/style.css",
+		"/Users/delappdesignmacmini/Sites/isb/loop-directory.php",
+		"/Users/delappdesignmacmini/Sites/isb/page-email.php",
+		"/Users/delappdesignmacmini/Sites/isb/loop-publication.php",
+		"/Users/delappdesignmacmini/Sites/isb/single-isb_people.php",
+		"/Users/delappdesignmacmini/Sites/isb/loop-bio.php",
+		"/Users/delappdesignmacmini/Sites/isb/loop-page.php",
+		"/Users/delappdesignmacmini/Sites/isb/sidebar-publications.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/single.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/category-5.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/category-13.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/home.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/archive.php",
+		"/Users/delappdesignmacmini/Downloads/glp/home.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/category-12.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/c7a769b3-f6c5-46a4-8723-3235b235c533/content/themes/glp/index.php",
+		"/Users/delappdesignmacmini/Sites/isb/sftp-config.json",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/94427a32-33dc-4e46-b5b3-d212c68497cf/home/engagingmenadvan/public_html/wp-content/themes/emaw/tribe-events/list/content.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/94427a32-33dc-4e46-b5b3-d212c68497cf/home/engagingmenadvan/public_html/wp-content/themes/emaw/tribe-events/list/single-past-event.php",
+		"/private/var/folders/zt/dtzmg4lj1kj2cwztz3k_4dw00000gp/T/94427a32-33dc-4e46-b5b3-d212c68497cf/home/engagingmenadvan/public_html/wp-content/themes/emaw/tribe-events/list/loop-past.php",
+		"/Users/delappdesignmacmini/Sites/closecheap/log/common.log",
+		"/Users/delappdesignmacmini/Sites/closecheap/api/controllers/UserController.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/log/emailsent.log",
+		"/Users/delappdesignmacmini/Sites/closecheap/log/error.log",
+		"/Users/delappdesignmacmini/Sites/closecheap/api/controllers/DealController.jsbackup",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/js/controllers/frequency.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/js/controllers/unsubscribe.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/js/controllers/form.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/emailtemplates/yelpemail.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/config/crontab.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/crontab/weekly.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/crontab/monthly.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/api/controllers/DealController.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/js/main.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/api/services/EmailService.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/api/models/User.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/crontab/daily.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/logfile.log",
+		"/Users/delappdesignmacmini/Sites/closecheap/config/log.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/package.json",
+		"/Users/delappdesignmacmini/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/templates/confirmed.html",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/style.css",
+		"/Users/delappdesignmacmini/Sites/closecheap/assets/templates/home.html",
+		"/Users/delappdesignmacmini/Sites/closecheap/config/routes.js",
+		"/Users/delappdesignmacmini/Sites/closecheap/config/connections.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"date-start",
+			"home",
+			"getEvents",
+			"home",
+			"get_template",
+			"get template",
+			"sidebar",
+			"page-sidebar",
+			"publications",
+			"heather",
+			"succes	",
+			"last-item",
+			"sidebar-menu last-item",
+			"ajax",
+			"text",
+			"    display: block;\n    background: none;\n    color: #99CC33;\n    height: auto;\n    font-size: 1em;\n    text-transform: none;\n    text-shadow: none;\n    line-height: 1.8;\n    margin: 6px 0px;\n    padding: 0px;",
+			"div",
+			"input",
+			"();\n",
+			"research",
+			"a.button",
+			"li",
+			"reports",
+			"ul.menu",
+			"menu",
+			".menu ul ul, ul.menu ul ul {",
+			".menu ul ul, ul.menu ul ul {\n.menu ul ul, ul.menu ul ul {\n.menu ul ul, ul.menu ul ul {\n.menu ul ul, ul.menu ul ul",
+			"ul.menu",
+			".widget li",
+			"research",
+			"h5",
+			"slug",
+			"paris",
+			"parus",
+			"filters",
+			"Filters",
+			"filters",
+			"selecter",
+			"rel",
+			"research",
+			"events",
+			"footer",
+			"http",
+			"        background: rgba(0, 0, 0, 0.02);",
+			".mobile-menu a",
+			"main-",
+			"mobile-",
+			".mobile-menu ul.sub-menu",
+			"ul.sub-menu",
+			"togg",
+			"mobile-menu",
+			".slides li",
+			"header-large",
+			"max-height",
+			"headline",
+			"<?php if($button['button_url']): ?>",
+			"people",
+			"true",
+			"flex",
+			"button",
+			"upload",
+			"up",
+			"isb-base",
+			"read-more",
+			"border-color: #f7",
+			"container",
+			"container form",
+			"read-more",
+			"read",
+			"read-more",
+			"readmore",
+			"mod",
+			"full",
+			"border-color",
+			"666",
+			"button",
+			"inside",
+			"width",
+			"inside",
+			"content",
+			"blue",
+			"middle",
+			"inside",
+			"blog",
+			"select",
+			"            jQuery(function() {\n                jQuery('#page_id').bind('change',function() {\n                    jQuery('#year-select-form').trigger('submit');\n                });\n            });",
+			"$",
+			"h4",
+			"$wp_query",
+			"secondary-nav",
+			"list",
+			"News & Press",
+			"news press",
+			"bodyHeight",
+			"clar",
+			"get field",
+			"sidebar",
+			"jQuery",
+			"$",
+			"sliderHeight",
+			"debug",
+			"sails",
+			"info",
+			"sendDailyEmail",
+			"frequecy",
+			"categories",
+			"frequency",
+			"user.id",
+			"userController",
+			"sails",
+			"error",
+			"_id",
+			"email",
+			"Email",
+			"email",
+			"Email",
+			"email",
+			"body",
+			"bg",
+			"padding-top",
+			"body",
+			"error",
+			"$scope.resultsmessage",
+			"results",
+			"error",
+			"fail",
+			"css",
+			"pages"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "wearable-api.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side-b",
+				"side-bar-research-content.php"
+			],
+			[
+				"sid",
+				"sidebar.php"
+			],
+			[
+				"side",
+				"sidebar-research.php"
+			],
+			[
+				"pu",
+				"publication-year-form.php"
+			],
+			[
+				"",
+				"sidebar-research.php"
+			],
+			[
+				"loo",
+				"loop-reports.php"
+			],
+			[
+				"loop-",
+				"loop-reports.php"
+			],
+			[
+				"looop-",
+				"loop-reports-top-category.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"sing",
+				"single-isb_research.php"
+			],
+			[
+				"singe",
+				"single-isb_research-reports.php"
+			],
+			[
+				"lo",
+				"loop-research.php"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"pa",
+				"page-research.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"si",
+				"sidebar-research.php"
+			],
+			[
+				"rese",
+				"js/research.js"
+			],
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"sft",
+				"sftp-config.json"
+			],
+			[
+				"res",
+				"single-isb_research.php"
+			],
+			[
+				"page-",
+				"page-research.php"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"c",
+				"changes.css"
+			],
+			[
+				"base",
+				"js/base.js"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"changes",
+				"changes.css"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"base.js",
+				"js/base.js"
+			],
+			[
+				"chan",
+				"changes.css"
+			],
+			[
+				".js",
+				"js/base.js"
+			],
+			[
+				"dire",
+				"loop-directory.php"
+			],
+			[
+				"user",
+				"api/models/User.js"
+			],
+			[
+				"log",
+				"config/log.js"
+			],
+			[
+				"deal",
+				"api/controllers/DealController.js"
+			],
+			[
+				"dail",
+				"crontab/daily.js"
+			],
+			[
+				"log.",
+				"config/log.js"
+			],
+			[
+				"home",
+				"assets/templates/home.html"
+			],
+			[
+				"main.",
+				"assets/js/main.js"
+			],
+			[
+				"routs",
+				"config/routes.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
